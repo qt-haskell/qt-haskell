@@ -14,7 +14,7 @@
 <br>
 <br>
 <p align='center'>
-<img src ="https://activity-graph.herokuapp.com/graph?username=qt-haskell&theme=rogue&hide_border=true&color=ABE9B3&bg_color=00000000&text_color=D9E0EE&icon_color=ABE9B3&title_color=ABE9B3" />
+<img src ="https://activity-graph.herokuapp.com/graph?username=qt-haskell&theme=rogue&hide_border=true&color=ABE9B3&bg_color=00000000&text_color=D9E0EE&icon_color=ABE9B3&title_color=ABE9B3&line=ABE9B3&point=ABE9B3" />
 <p align='center'>
 <img src ="https://stats-gray.vercel.app/api?username=qt-haskell&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&text_color=D9E0EE&icon_color=ABE9B3&title_color=ABE9B3" /> <br>
 </p>
