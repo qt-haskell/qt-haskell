@@ -9,11 +9,9 @@
   </samp>
 </p>
 <p align="right"><b><samp>」</samp></b></p>
-
 <br>
-<br>
-<br>
-
 <p align='center'>
-<img src ="https://stats-gray.vercel.app/api?username=qt-haskell&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&text_color=D9E0EE&icon_color=ABE9B3&title_color=ABE9B3" /> <br>
+<img src ="https://stats-gray.vercel.app/api?username=qt-haskell&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&text_color=D9E0EE&icon_color=ABE9B3&title_color=ABE9B3" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qt-haskell&bg_color=00000000&text_color=D9E0EE&icon_color=ABE9B3&title_color=ABE9B3&hide_border=true" />
+<br>
 </p>
